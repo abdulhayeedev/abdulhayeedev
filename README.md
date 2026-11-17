@@ -46,6 +46,7 @@ I build online stores, WordPress/WooCommerce plugins and small AI tools. Most of
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulhayeedev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b24" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhayeedev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b24" />
+  <img src="https://img.shields.io/github/followers/abdulhayeedev?style=for-the-badge&logo=github&color=0f766e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/abdulhayeedev?style=for-the-badge&logo=github&color=f59e0b" alt="Stars" />
+  <img src="https://img.shields.io/github/repositories/abdulhayeedev?style=for-the-badge&logo=github&color=0A66C2" alt="Repositories" />
 </p>
