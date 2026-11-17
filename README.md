@@ -42,20 +42,10 @@ Add this URL as a custom connector:
 https://abdul-mcp.vercel.app/api/mcp
 ```
 
-- **Claude:** Settings → Connectors → Add custom connector, then paste the URL. Try asking "what has Abdul built?"
-- **ChatGPT:** Settings → Apps & Connectors → developer mode → Create, then paste the URL.
-- **Cursor or any MCP client:** add it as a streamable-HTTP server.
+### How to connect
+
+| 01 · Claude | 02 · ChatGPT | 03 · Cursor or any client |
+| --- | --- | --- |
+| 1. Open Settings, then Connectors.<br>2. Click Add custom connector.<br>3. Name it `abdulhayee` and paste the URL above.<br>4. Ask: "What has Abdul built?" | 1. Open Settings, then Apps & Connectors.<br>2. Turn on developer mode and click Create.<br>3. Paste the URL and save.<br>4. Ask it to call `get_profile`. | 1. Add a streamable-HTTP MCP server.<br>2. Paste the URL above.<br>3. Run `tools/list` to see the five tools. |
 
 Tools: `get_profile`, `get_experience`, `get_skills`, `get_projects`, `get_links`. The source is at [abdulhayeedev/abdul-mcp](https://github.com/abdulhayeedev/abdul-mcp).
-
-## Selected work
-
-| Project | What it is |
-| --- | --- |
-| WooCommerce store | 50,000+ products, custom theme and plugins |
-| WordPress AI chatbot | Chatbot plugin that answers customer questions on-site |
-| [Rag-based-Chatbot](https://github.com/abdulhayeedev/Rag-based-Chatbot) | Retrieval-augmented chatbot over your own documents |
-| Timesheet app | Supabase-backed check-in/out tracker with row-level security |
-| POS systems | Point-of-sale tooling for small retail |
-| Client sites | React / TanStack front ends |
-
