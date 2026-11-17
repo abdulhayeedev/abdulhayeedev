@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Abdul Hayee - Software Engineer in Manchester, UK" width="100%" />
+<img src="banner.svg" alt="Abdul Hayee - Software Engineer in Manchester, UK" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-hayee1"><img src="https://img.shields.io/badge/LinkedIn-abdul--hayee1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
