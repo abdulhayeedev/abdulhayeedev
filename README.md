@@ -43,10 +43,3 @@ I build online stores, WordPress/WooCommerce plugins and small AI tools. Most of
 | POS systems | Point-of-sale tooling for small retail |
 | Client sites | React / TanStack front ends |
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/abdulhayeedev?style=for-the-badge&logo=github&color=0f766e" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/abdulhayeedev?style=for-the-badge&logo=github&color=f59e0b" alt="Stars" />
-  <img src="https://img.shields.io/github/repositories/abdulhayeedev?style=for-the-badge&logo=github&color=0A66C2" alt="Repositories" />
-</p>
