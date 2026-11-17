@@ -32,6 +32,22 @@ I build online stores, WordPress/WooCommerce plugins and small AI tools. Most of
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+## Ask my profile
+
+I run a small MCP server, so Claude, ChatGPT or Cursor can answer questions about my experience, skills and projects directly.
+
+Add this URL as a custom connector:
+
+```
+https://abdul-mcp.vercel.app/api/mcp
+```
+
+- **Claude:** Settings → Connectors → Add custom connector, then paste the URL. Try asking "what has Abdul built?"
+- **ChatGPT:** Settings → Apps & Connectors → developer mode → Create, then paste the URL.
+- **Cursor or any MCP client:** add it as a streamable-HTTP server.
+
+Tools: `get_profile`, `get_experience`, `get_skills`, `get_projects`, `get_links`. The source is at [abdulhayeedev/abdul-mcp](https://github.com/abdulhayeedev/abdul-mcp).
+
 ## Selected work
 
 | Project | What it is |
