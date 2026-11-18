@@ -39,7 +39,7 @@ I run a small MCP server, so Claude, ChatGPT or Cursor can answer questions abou
 Add this URL as a custom connector:
 
 ```
-https://abdul-mcp.vercel.app/api/mcp
+https://abdulhayee.vercel.app/api/mcp
 ```
 
 ### How to connect
